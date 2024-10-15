@@ -2,6 +2,9 @@
 using namespace std;
 
 int main() {
-	// your code goes here
+	int x = 10;
+	int y = 20;
+	int z = x + y;
+	cout << "The sum of " << x << " and " << y << " is " << z << endl;
 	return 0;
 }

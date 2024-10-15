@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	//“ут був м≥й код
+	// your code goes here
 	return 0;
 }
